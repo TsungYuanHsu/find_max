@@ -1,1 +1,1 @@
-"# find_max" 
+# Find maximum element in the list
